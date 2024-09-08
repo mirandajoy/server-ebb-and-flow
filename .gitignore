@@ -1,3 +1,6 @@
 __pycache__
+.flaskenv
 .env
 .venv
+.idea
+.DS_STORE
